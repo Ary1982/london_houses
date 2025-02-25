@@ -6,4 +6,5 @@ Analisis del mercado de las casas en ventas en Londres, realizado con Power BI
 Analisis realizado por:
 
 Arianna Rassu 
+y
 Nuria Mora
